@@ -1,4 +1,4 @@
-""" Leo Martinez III, K00475695, Project 2 """
+""" Created by: Leo Martinez III in Spring 2022 """
 
 def project2(S):
     if len(S) < 2: # Base case
